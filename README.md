@@ -1,0 +1,2 @@
+# stock-reccomender
+A web application built using reactjs and nodejs which allows a user to input 5 different stocks they are interested. The backend with make api calls to marketstack.com in order to calculate the 50 and 200 day moving averages. If the 50 day moving average is above the 200 day average, this is a positive indicator and the stock will be recommended, otherwise it will not be recommended. 
